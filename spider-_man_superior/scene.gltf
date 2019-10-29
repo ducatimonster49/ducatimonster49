@@ -1,0 +1,451 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2900,
+      "max": [
+        9.4076356887817383,
+        32.305641174316406,
+        91.219505310058594
+      ],
+      "min": [
+        -8.4141998291015625,
+        -32.305641174316406,
+        -0.37650999426841736
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 34800,
+      "componentType": 5126,
+      "count": 2900,
+      "max": [
+        0.99992847442626953,
+        0.99977856874465942,
+        0.99999356269836426
+      ],
+      "min": [
+        -0.9999350905418396,
+        -0.99943935871124268,
+        -0.99998068809509277
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2900,
+      "max": [
+        0.99971002340316772,
+        0.99998927116394043,
+        0.99695450067520142,
+        1
+      ],
+      "min": [
+        -0.99994760751724243,
+        -0.99998962879180908,
+        -0.99995815753936768,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2900,
+      "max": [
+        1.9892580509185791,
+        0.99376702308654785
+      ],
+      "min": [
+        0.0035359999164938927,
+        0.0019529999699443579
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9999,
+      "max": [
+        2899
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 69600,
+      "componentType": 5126,
+      "count": 2634,
+      "max": [
+        9.348973274230957,
+        31.871631622314453,
+        92.747650146484375
+      ],
+      "min": [
+        -10.406497001647949,
+        -29.834123611450195,
+        -0.37549000978469849
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 101208,
+      "componentType": 5126,
+      "count": 2634,
+      "max": [
+        0.99856626987457275,
+        0.99976050853729248,
+        0.99998044967651367
+      ],
+      "min": [
+        -0.99993598461151123,
+        -0.99976056814193726,
+        -0.99999815225601196
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 46400,
+      "componentType": 5126,
+      "count": 2634,
+      "max": [
+        0.99987304210662842,
+        0.99990087747573853,
+        0.9971805214881897,
+        1
+      ],
+      "min": [
+        -0.99952733516693115,
+        -0.99999409914016724,
+        -0.99939656257629395,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23200,
+      "componentType": 5126,
+      "count": 2634,
+      "max": [
+        1.9980469942092896,
+        1.0002520084381104
+      ],
+      "min": [
+        0.0026660000439733267,
+        0.0019529999699443579
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 39996,
+      "componentType": 5125,
+      "count": 9999,
+      "max": [
+        2633
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 132816,
+      "componentType": 5126,
+      "count": 285,
+      "max": [
+        6.1105289459228516,
+        32.062149047851562,
+        78.169448852539062
+      ],
+      "min": [
+        -7.2048549652099609,
+        -30.631002426147461,
+        36.563926696777344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 136236,
+      "componentType": 5126,
+      "count": 285,
+      "max": [
+        0.9998130202293396,
+        0.99039739370346069,
+        0.95340895652770996
+      ],
+      "min": [
+        -0.99899661540985107,
+        -0.97382432222366333,
+        -0.99655860662460327
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 88544,
+      "componentType": 5126,
+      "count": 285,
+      "max": [
+        0.99745535850524902,
+        0.9832993745803833,
+        0.99661904573440552,
+        1
+      ],
+      "min": [
+        -0.99972283840179443,
+        -0.99815958738327026,
+        -0.93833440542221069,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 44272,
+      "componentType": 5126,
+      "count": 285,
+      "max": [
+        1.109375,
+        0.97236597537994385
+      ],
+      "min": [
+        0.023560000583529472,
+        0.2148440033197403
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 79992,
+      "componentType": 5125,
+      "count": 1020,
+      "max": [
+        284
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Neytryno (https://sketchfab.com/bazellightning)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spider-man-superior-99a95bf4b3ec448f86dc54cca98dd208",
+      "title": "Spider- Man (Superior)"
+    },
+    "generator": "Sketchfab-6.70.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 84072,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46552,
+      "byteOffset": 84072,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 139656,
+      "byteOffset": 130624,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 93104,
+      "byteOffset": 270280,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 363384,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/spiderman_superior_mat_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/spiderman_superior_mat_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/spiderman_superior_mat_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "spiderman_superior_mat",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 0.38586128048780488
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "Spider-Man (Superior).obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
