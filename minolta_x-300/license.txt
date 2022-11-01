@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minolta X-300
+* source:	https://sketchfab.com/3d-models/minolta-x-300-1a6f1b545dbb442386e8365c55e8a6ce
+* author:	radovan_stastny (https://sketchfab.com/radovan_stastny)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minolta X-300" (https://sketchfab.com/3d-models/minolta-x-300-1a6f1b545dbb442386e8365c55e8a6ce) by radovan_stastny (https://sketchfab.com/radovan_stastny) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
