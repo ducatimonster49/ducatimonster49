@@ -1,0 +1,11 @@
+Model Information:
+* title:	Room at the Ned NoMad, NYC
+* source:	https://sketchfab.com/3d-models/room-at-the-ned-nomad-nyc-6dbef46c8d3d43e4b34c1cab978cd8a1
+* author:	jtressle (https://sketchfab.com/jtressle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Room at the Ned NoMad, NYC" (https://sketchfab.com/3d-models/room-at-the-ned-nomad-nyc-6dbef46c8d3d43e4b34c1cab978cd8a1) by jtressle (https://sketchfab.com/jtressle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
