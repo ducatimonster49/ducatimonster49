@@ -1,0 +1,11 @@
+Model Information:
+* title:	tree stump realityscan 2022-10-30T09:54:46.413Z
+* source:	https://sketchfab.com/3d-models/tree-stump-realityscan-2022-10-30t095446413z-42cba29040e14f79954b3f36f870350b
+* author:	Yu (https://sketchfab.com/FFT_kedar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tree stump realityscan 2022-10-30T09:54:46.413Z" (https://sketchfab.com/3d-models/tree-stump-realityscan-2022-10-30t095446413z-42cba29040e14f79954b3f36f870350b) by Yu (https://sketchfab.com/FFT_kedar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
