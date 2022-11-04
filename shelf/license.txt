@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shelf
+* source:	https://sketchfab.com/3d-models/shelf-dcddd50460ce4d1295733d32369683a6
+* author:	suryajayabudimulia (https://sketchfab.com/suryajayabudimulia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shelf" (https://sketchfab.com/3d-models/shelf-dcddd50460ce4d1295733d32369683a6) by suryajayabudimulia (https://sketchfab.com/suryajayabudimulia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
